@@ -1,10 +1,7 @@
 
-function LeapYear(year){
 
-
-}
-LeapYear(2000)
-LeapYear(2005)
+leapYearII(2000)
+leapYearII(2005)
 
 const leapYearII =
 (year) => {
